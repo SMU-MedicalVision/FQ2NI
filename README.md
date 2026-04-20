@@ -1,2 +1,2 @@
 # FQ2NI
-code is available after paper accept
+The source code will be made publicly available after acceptance of the paper.
